@@ -92,7 +92,7 @@
           },
           { 
             name: 'El Gran Chef', 
-            url:'http://elgranchef.com.pe/', 
+            url:'http://komedor.elgranchef.com.pe/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'light-green accent-4'
           },

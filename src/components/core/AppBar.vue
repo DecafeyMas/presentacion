@@ -88,7 +88,6 @@
             url:'https://chejampi.com/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'blue'
-            
           },
           { 
             name: 'El Gran Chef', 
@@ -103,14 +102,8 @@
             color: 'blue-grey darken-1'
           },
           { 
-            name: 'Páginaweb Prev Diseño', 
-            url:'http://', 
-            icon: 'mdi mdi-clipboard-text',
-            color: 'orange'
-          },
-          { 
             name: 'Páginaweb Next Diseño', 
-            url:'http://', 
+            url:'http://pageweb.chejampi.com/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'primary'
           }

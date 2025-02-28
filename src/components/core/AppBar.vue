@@ -103,7 +103,7 @@
           },
           { 
             name: 'Páginaweb Mejorada', 
-            url:'http://pageweb.chejampi.com/', 
+            url:'http://paginaweb.chejampi.com/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'primary'
           }

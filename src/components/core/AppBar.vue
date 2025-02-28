@@ -102,7 +102,7 @@
             color: 'blue-grey darken-1'
           },
           { 
-            name: 'Páginaweb Next Diseño', 
+            name: 'Páginaweb Mejorada', 
             url:'http://pageweb.chejampi.com/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'primary'

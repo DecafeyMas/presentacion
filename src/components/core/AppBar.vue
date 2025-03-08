@@ -103,7 +103,7 @@
           },
           { 
             name: 'Páginaweb Mejorada', 
-            url:'http://paginaweb.chejampi.com/', 
+            url:'https://paginaweb-last-2025.netlify.app/', 
             icon: 'mdi mdi-clipboard-text',
             color: 'primary'
           }

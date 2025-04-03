@@ -3,16 +3,12 @@
     id="about"
     class="overflow-hidden"
   >
-    <v-row
-      class="primary"
-      no-gutters
-    >
+    <v-row class="primary" no-gutters>
       <v-col
-        class="pa-5"
         cols="12"
         md="6"
       >
-        <BaseBubble1 style="transform: translate(10%, -5%)" />
+        <BaseBubble1 style="transform: translate(10%, -15%)" />
 
         <BaseHeading class="white--text">
           Equipo Humano

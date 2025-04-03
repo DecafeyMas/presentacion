@@ -27,7 +27,7 @@
           justify="center"
         >
           <v-col cols="12">
-            <BaseBubble2 style="transform: translateX(55%)"/>
+            <BaseBubble2 style="transform: translate(55%, -15%)"/>
             <BaseHeading class="primary--text">
               Servicios
             </BaseHeading>
@@ -59,6 +59,7 @@
               />
               <div v-html="service.blurb" />
               <div v-text="service.blurb1" />
+              <div v-text="service.blurb2" />
             </BaseText>
           </v-col>
           <v-col cols="12">
@@ -140,26 +141,27 @@
         {
           name: 'DESAROLLO',
           icon: 'mdi-code-tags',
-          blurb: 'La innovación y creatividad son los ejes',
-          blurb1: 'en el desarrollo de soluciones informáticas.',
+          blurb: 'La innovación y creatividad son los pilares sobre los cuales construimos',
+          blurb1: 'nuestras soluciones informáticas. Nos enfocamos en ofrecer desarrollos personalizados que impulsan la eficiencia y el crecimiento de tu negocio.',
         },
         {
           name: 'DISEÑO UX',
           icon: 'mdi-pencil-outline',
-          blurb: 'Nuestras soluciones se estructuran y diseñan',
-          blurb1: 'en función a la experiencia de usuario.',
+          blurb: 'Cada solución que ofrecemos está estructurada y diseñada pensando en la experiencia del usuario.',
+          blurb1: 'Nos aseguramos de que cada interacción sea intuitiva, accesible y satisfactoria tanto para el usuario, el cliente y proveedor.',
         },
         {
           name: 'TECNOLOGÍAS',
           icon: 'mdi-apps',
-          blurb: 'Backend: .Node, Expressjs Nestjs, NET Core',
+          blurb: 'Backend: Node, Express.js Nestjs, .NET Core',
           blurb1: 'Frontend: Vue, Angular.',
+          blurb2:'Utilizamos tecnologías de vanguardia para asegurar soluciones robustas, escalables y eficientes.'
         },
         {
           name: 'SOPORTE',
           icon: 'mdi-account',
-          blurb: 'Soporte técnico 24/7 con',
-          blurb1: 'profesionales y técnicos capacitados.',
+          blurb: 'Ofrecemos soporte técnico 24/7 con un equipo de profesionales altamente capacitados para resolver',
+          blurb1: 'cualquier inconveniente y garantizar el funcionamiento óptimo de tus sistemas en todo momento.',
         },
       ],
     }),
